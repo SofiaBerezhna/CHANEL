@@ -1,0 +1,53 @@
+body{
+    background-color: white;
+    }
+    
+    .header_image{
+    width: 2%;
+    height: 2%;
+    position:relative;
+    bottom: -120%;
+    left: 75%;
+    }
+    
+    .menu_img{
+    width: 3%;
+    height: 3%;
+    position:relative;
+    top: 10%;
+    padding-top: 3%;
+    padding-left: 3%;
+    }
+    
+    h2,h1{
+    text-align:center;
+    }
+    
+    h1{
+    position:relative;
+    text-align:center;
+    top: -90%;
+    }
+    
+    header{
+    background-color: rgb(89, 70, 70);
+    margin-bottom:3%;
+    border-top: 6px solid black;
+    border-bottom: 1px solid rgb(200, 200, 200);
+    padding-bottom: -5%;
+    margin-top: -2.5%;
+    margin-right: -2%;
+    margin-left: -2%;
+    }
+    
+    .menu{
+    padding-top: 3%;
+    position:relative;
+    top: -2%;
+    }
+    
+    .main_1{
+    background-image:url("https://www.chanel.com/puls-img/c_limit,w_1920/q_auto:good,dpr_auto,f_auto/1714810921320-homepagecorpoonedesktopvdefjpg_1255x2880.jpg");
+    position: relative;
+    bottom: 30%;
+    }
