@@ -3,16 +3,16 @@ body{
     }
     
     .header_image{
-    width: 2%;
-    height: 2%;
+    width: 10px;
+    height: 10px;
     position:relative;
     bottom: -120%;
     left: 75%;
     }
     
     .menu_img{
-    width: 3%;
-    height: 3%;
+    width: 10px;
+    height: 10px;
     position:relative;
     top: 10%;
     padding-top: 3%;
