@@ -59,6 +59,9 @@ position:center;
 
     section{
         margin: 0px;
+        padding: -100px;
+        background-color: aqua;
+        height: 600px;
     }
 
     .section_a{
@@ -75,6 +78,7 @@ position:center;
 
     .fo11{
         padding-top: 500px;
+
     }
 
     .button{
@@ -90,6 +94,10 @@ position:center;
         margin-top: 10px;
     }
 
-    br{
-text-align: center;
+    .fo2{
+
+        background-color: blue;
+    }
+    .fo4{
+        
     }
