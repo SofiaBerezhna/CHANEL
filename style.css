@@ -25,21 +25,19 @@ body{
     }
     
     h1{
-    position:relative;
-    text-align:center;
-    top: -90%;
+position:center;
     }
     
     header{
     background-color: rgb(255, 255, 255);
     margin-bottom:-2px;
-    border-top: 6px solid black;
+    border-top: 8px solid black;
     border-bottom: 1px solid rgb(200, 200, 200);
-    margin-top: -2px;
     margin-right: -1px;
     margin-left: -1px;
     position: fixed;
     width:1280px;
+    top:-3px;
     z-index: 1;
     }
     
@@ -55,24 +53,43 @@ body{
     }
 
     .sectionimg{
-        height: 500px;
+        height: 600px;
+        width: 1280px;
     }
 
     section{
-        margin: -7px;
+        margin: 0px;
     }
 
     .section_a{
         text-decoration: none;
         position:relative;
-        top: -850px;
+        top: -1000px;
         left: 30%;
         color: white;
         font-size:230%;
         text-shadow:3px 3px 4px black;
         font-weight: 200;
+        align-items: center;
     }
 
     .fo11{
         padding-top: 500px;
+    }
+
+    .button{
+        color: black;
+        text-decoration:none;
+        background-color: white;
+        box-shadow: 0px 0px 2px 2px rgb(57, 57, 57);
+        position:relative;
+        top: -950px;
+        left: 18%;
+        size:30%;
+        padding:13px;
+        margin-top: 10px;
+    }
+
+    br{
+text-align: center;
     }
